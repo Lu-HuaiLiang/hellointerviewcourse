@@ -1,0 +1,176 @@
+[
+  {
+    "title": "HTTP 语义 · RFC 9110",
+    "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "status": 200,
+    "resolved": "https://www.rfc-editor.org/rfc/rfc9110.html"
+  },
+  {
+    "title": "PostgreSQL · 事务隔离",
+    "url": "https://www.postgresql.org/docs/current/transaction-iso.html",
+    "status": 200,
+    "resolved": "https://www.postgresql.org/docs/current/transaction-iso.html"
+  },
+  {
+    "title": "Redis · 缓存淘汰",
+    "url": "https://redis.io/docs/latest/develop/reference/eviction/",
+    "status": 200,
+    "resolved": "https://redis.io/docs/latest/develop/reference/eviction/"
+  },
+  {
+    "title": "Apache Kafka · 设计",
+    "url": "https://kafka.apache.org/41/design/design/",
+    "status": 200,
+    "resolved": "https://kafka.apache.org/41/design/design/"
+  },
+  {
+    "title": "Amazon S3 · 分段上传",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html",
+    "status": 200,
+    "resolved": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html"
+  },
+  {
+    "title": "TCP · RFC 9293",
+    "url": "https://www.rfc-editor.org/rfc/rfc9293.html",
+    "status": 200,
+    "resolved": "https://www.rfc-editor.org/rfc/rfc9293.html"
+  },
+  {
+    "title": "Stripe · 幂等请求",
+    "url": "https://docs.stripe.com/api/idempotent_requests",
+    "status": 200,
+    "resolved": "https://docs.stripe.com/api/idempotent_requests"
+  },
+  {
+    "title": "PostgreSQL · 索引",
+    "url": "https://www.postgresql.org/docs/current/indexes.html",
+    "status": 200,
+    "resolved": "https://www.postgresql.org/docs/current/indexes.html"
+  },
+  {
+    "title": "Apache Cassandra · 数据建模",
+    "url": "https://cassandra.apache.org/doc/latest/cassandra/developing/data-modeling/intro.html",
+    "status": 200,
+    "resolved": "https://cassandra.apache.org/doc/latest/cassandra/developing/data-modeling/intro.html"
+  },
+  {
+    "title": "Amazon Dynamo · 一致性哈希与复制",
+    "url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+    "status": 200,
+    "resolved": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf"
+  },
+  {
+    "title": "Amazon DynamoDB · 核心概念",
+    "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html",
+    "status": 200,
+    "resolved": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html"
+  },
+  {
+    "title": "Gilbert & Lynch · CAP 论文",
+    "url": "https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf",
+    "status": 200,
+    "resolved": "https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf"
+  },
+  {
+    "title": "Elasticsearch · 近实时搜索",
+    "url": "https://www.elastic.co/docs/manage-data/data-store/near-real-time-search",
+    "status": 200,
+    "resolved": "https://www.elastic.co/docs/manage-data/data-store/near-real-time-search"
+  },
+  {
+    "title": "Apache Flink · 事件时间",
+    "url": "https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/time/",
+    "status": 200,
+    "resolved": "https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/time/"
+  },
+  {
+    "title": "Apache ZooKeeper · 概述",
+    "url": "https://zookeeper.apache.org/doc/current/zookeeperOver.html",
+    "status": 200,
+    "resolved": "https://zookeeper.apache.org/doc/current/zookeeperOver.html"
+  },
+  {
+    "title": "HTML 标准 · Server-sent events",
+    "url": "https://html.spec.whatwg.org/multipage/server-sent-events.html",
+    "status": 200,
+    "resolved": "https://html.spec.whatwg.org/multipage/server-sent-events.html"
+  },
+  {
+    "title": "Debezium · 架构",
+    "url": "https://debezium.io/documentation/reference/stable/architecture.html",
+    "status": 200,
+    "resolved": "https://debezium.io/documentation/reference/stable/architecture.html"
+  },
+  {
+    "title": "PostGIS · 空间索引",
+    "url": "https://postgis.net/workshops/postgis-intro/indexing.html",
+    "status": 200,
+    "resolved": "https://postgis.net/workshops/postgis-intro/indexing.html"
+  },
+  {
+    "title": "pgvector · 向量与近似检索",
+    "url": "https://github.com/pgvector/pgvector",
+    "status": 200,
+    "resolved": "https://github.com/pgvector/pgvector"
+  },
+  {
+    "title": "Yjs · 共享类型",
+    "url": "https://docs.yjs.dev/getting-started/working-with-shared-types",
+    "status": 200,
+    "resolved": "https://docs.yjs.dev/getting-started/working-with-shared-types"
+  },
+  {
+    "title": "Figma Engineering · Multiplayer",
+    "url": "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/",
+    "status": 200,
+    "resolved": "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/"
+  },
+  {
+    "title": "Prometheus · 数据模型",
+    "url": "https://prometheus.io/docs/concepts/data_model/",
+    "status": 200,
+    "resolved": "https://prometheus.io/docs/concepts/data_model/"
+  },
+  {
+    "title": "Redis · 布隆过滤器的原理与边界",
+    "url": "https://redis.io/docs/latest/develop/data-types/probabilistic/bloom-filter/",
+    "status": 200,
+    "resolved": "https://redis.io/docs/latest/develop/data-types/probabilistic/bloom-filter/"
+  },
+  {
+    "title": "Flajolet 等 · HyperLogLog 论文",
+    "url": "https://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf",
+    "status": 200,
+    "resolved": "https://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf"
+  },
+  {
+    "title": "Redis · Count-Min Sketch",
+    "url": "https://redis.io/docs/latest/develop/data-types/probabilistic/count-min-sketch/",
+    "status": 200,
+    "resolved": "https://redis.io/docs/latest/develop/data-types/probabilistic/count-min-sketch/"
+  },
+  {
+    "title": "Shopify Engineering · 库存预留",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "status": 200,
+    "resolved": "https://shopify.engineering/scaling-inventory-reservations"
+  },
+  {
+    "title": "Discord Engineering · 消息存储",
+    "url": "https://discord.com/blog/how-discord-stores-trillions-of-messages",
+    "status": 200,
+    "resolved": "https://discord.com/blog/how-discord-stores-trillions-of-messages"
+  },
+  {
+    "title": "Slack Engineering · Job Queue",
+    "url": "https://slack.engineering/scaling-slacks-job-queue/",
+    "status": 200,
+    "resolved": "https://slack.engineering/scaling-slacks-job-queue/"
+  },
+  {
+    "title": "Spotify Engineering · 数据湖点查",
+    "url": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries",
+    "status": 200,
+    "resolved": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries"
+  }
+]

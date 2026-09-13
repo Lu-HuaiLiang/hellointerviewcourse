@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "lessons": 74,
+  "cases": 32,
+  "questions": 222,
+  "decisionOptions": 320,
+  "viewports": [
+    1440,
+    768,
+    390,
+    320
+  ],
+  "offline": true,
+  "remoteRequests": 0,
+  "runtimeErrors": 0,
+  "checks": [
+    "full catalog navigation",
+    "all scenario and step states",
+    "all case alternative paths",
+    "all quiz right/wrong feedback",
+    "progress reload",
+    "wrong-answer review and retry",
+    "denied and malformed storage",
+    "keyboard tabs",
+    "mobile overflow",
+    "deterministic experiment",
+    "unknown route fallback"
+  ]
+}

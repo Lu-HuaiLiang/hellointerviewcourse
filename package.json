@@ -1,0 +1,6 @@
+{
+  "name": "system-design-fieldnotes",
+  "private": true,
+  "type": "module",
+  "scripts": {"build": "node scripts/build.mjs", "test": "node --test tests/content.test.mjs", "test:browser": "node tests/browser.mjs"}
+}
