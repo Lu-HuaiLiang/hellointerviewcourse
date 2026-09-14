@@ -1,0 +1,11 @@
+{
+  "verified_on": "2026-09-13",
+  "scope": "Five public engineering articles used for the In the Wild lessons. Facts paraphrased; numerical examples are separately authored teaching models.",
+  "articles": [
+    {"lesson":"shopify-inventory-reservations","url":"https://shopify.engineering/scaling-inventory-reservations","confirmed":"Unified reservation and ledger transaction boundary; bounded unit-row pool with SKIP LOCKED; connection occupancy as a bottleneck."},
+    {"lesson":"discord-messages-scylladb","url":"https://discord.com/blog/how-discord-stores-trillions-of-messages","confirmed":"ScyllaDB migration and data-service request coalescing are distinct improvements; routing helps co-locate matching requests."},
+    {"lesson":"slack-job-queue","url":"https://slack.engineering/scaling-slacks-job-queue/","confirmed":"Kafka added ahead of Redis; relay rate limiting protects the Redis layer. The historical article includes acknowledgement tradeoffs, not an unconditional durability guarantee."},
+    {"lesson":"figma-multiplayer","url":"https://www.figma.com/blog/how-figmas-multiplayer-technology-works/","confirmed":"Object/property updates; server ordering of same-property writes; optimistic clients; cycle handling for parent relationships. Historical design, not a claim about all current text editing."},
+    {"lesson":"spotify-data-lake-point-queries","url":"https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries","confirmed":"External key-to-file/row index, cached page metadata and ranged reads; point lookup versus column-scan layout tradeoffs."}
+  ]
+}

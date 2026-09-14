@@ -2,5 +2,11 @@
   "name": "system-design-fieldnotes",
   "private": true,
   "type": "module",
-  "scripts": {"build": "node scripts/build.mjs", "test": "node --test tests/content.test.mjs", "test:browser": "node tests/browser.mjs"}
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/content.test.mjs",
+    "test:browser": "node tests/browser.mjs",
+    "check:breakdowns": "npm run build && python3 scripts/check-breakdowns.py"
+  }
 }
